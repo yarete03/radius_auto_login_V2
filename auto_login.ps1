@@ -1,0 +1,1 @@
+powershell -WindowStyle Hidden -Command Start-Process python C:\Users\Yaret\PycharmProjects\auto_login\auto_login.py
